@@ -14,6 +14,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'itchyny/lightline.vim'
 Plug 'tpope/vim-cucumber'
 Plug 'dyng/ctrlsf.vim'
+Plug 'dart-lang/dart-vim-plugin'
 
 call plug#end()
 
